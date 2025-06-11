@@ -20,7 +20,7 @@ El objetivo es organizar estos problemas en columnas bien alineadas, con un form
 
    32      3801      45      123
 + 698    -    2    + 43    +  49
------    ------    ----    -----
+_____    ______    ____    _____
 
 ### ✔️ Con resultados (modo opcional):
 
@@ -30,7 +30,7 @@ arithmetic_arranger(["32 + 8", "1 - 3801"], True)
 
   32         1
 +  8    - 3801
-----    ------
+____    ______
   40     -3800
 
 ---
