@@ -12,28 +12,6 @@ El objetivo es organizar estos problemas en columnas bien alineadas, con un form
 
 ---
 
-### ✔️ Ejemplo de Entrada:
-
-["32 + 698", "3801 - 2", "45 + 43", "123 + 49"]
-
-### ✔️ Ejemplo de Salida:
-
-   32      3801      45      123
-+ 698    -    2    + 43    +  49
-_____    ______    ____    _____
-
-### ✔️ Con resultados (modo opcional):
-
-arithmetic_arranger(["32 + 8", "1 - 3801"], True)
-
-### 🚀 Resultado:
-
-  32         1
-+  8    - 3801
-____    ______
-  40     -3800
-
----
 
 ### ⚙️ Cómo usarlo
 Clona el repositorio o copia el archivo arithmetic_formatter.py.
